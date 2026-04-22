@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260421-204454-iro3",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-04-22T01:44:54.000Z",
+      "dateEnd": "2026-04-22T02:40:41.000Z",
+      "dateLabel": "4/21/2026, 8:44:54 PM - 4/21/2026, 9:40:41 PM",
+      "url": "https://Xarahait.github.io/xarahait/?report=20260421-204454-iro3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260419-203912-2yh5",
       "title": "Gear Check For Bads",
       "commanders": [
