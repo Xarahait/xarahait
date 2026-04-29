@@ -1,7 +1,40 @@
 {
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
+  "colorPalette": "violet-purple",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260428-205840-h11s",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-04-29T01:58:40.000Z",
+      "dateEnd": "2026-04-29T02:33:09.000Z",
+      "dateLabel": "4/28/2026, 8:58:40 PM - 4/28/2026, 9:33:09 PM",
+      "url": "https://Xarahait.github.io/xarahait/?report=20260428-205840-h11s",
+      "summary": {
+        "borderlandsPct": 0.8888888888888888,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20260423-203413-kxkb",
       "title": "Gear Check For Bads",
