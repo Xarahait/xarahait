@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260430-202701-mhxj",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-01T01:27:01.000Z",
+      "dateEnd": "2026-05-01T03:01:13.000Z",
+      "dateLabel": "4/30/2026, 8:27:01 PM - 4/30/2026, 10:01:13 PM",
+      "url": "https://Xarahait.github.io/xarahait/?report=20260430-202701-mhxj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260428-205840-h11s",
       "title": "Gear Check For Bads",
       "commanders": [
